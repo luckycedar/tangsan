@@ -1,5 +1,35 @@
 {
   "sites": [
+    {
+      "key": "csp_biubiu_ysgc",
+      "name": "ysgc",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://tangsan99999.github.io/XBiubiu/ysgc.json"
+    },
+    {
+      "key": "csp_biubiu_555",
+      "name": "555",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://tangsan99999.github.io/XBiubiu/555.json"
+    },
+    {
+      "key": "csp_biubiu_lezhu",
+      "name": "lezhu",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://tangsan99999.github.io/XBiubiu/lezhutv.json"
+    },
     { //列子，自己找Api
       "key": "300看世界",
       "name": "300看世界",
