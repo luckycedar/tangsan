@@ -453,5 +453,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://tangsan99999.github.io/custom_spider.jar"
+  "spider": "https://github.com/luckycedar/tangsan/blob/master/jar/custom_spider.jar"
 }
